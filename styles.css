@@ -1,0 +1,79 @@
+/* styles.css */
+
+/* Style the banner */
+.banner {
+    background-color: #0078d4; /* Change to your preferred background color */
+    color: white; /* Change text color as needed */
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px; /* Adjust spacing as needed */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white; /* Change link color as needed */
+}
+
+nav ul li a:hover {
+    text-decoration: underline; /* Add an underline on hover if desired */
+}
+
+/* Style the bottom banner */
+.bottom-banner {
+    background-color: #333; /* Change to your preferred background color */
+    color: white; /* Change text color as needed */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Style the contact information section */
+.contact-info {
+    flex: 1;
+}
+
+.contact-info h3 {
+    font-size: 20px; /* Adjust font size as needed */
+    margin-bottom: 10px; /* Adjust spacing as needed */
+}
+
+/* Style the social media section */
+.social-media {
+    flex: 1;
+}
+
+.social-media h3 {
+    font-size: 20px; /* Adjust font size as needed */
+    margin-bottom: 10px; /* Adjust spacing as needed */
+}
+
+.social-media ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-media ul li {
+    margin-bottom: 5px; /* Adjust spacing as needed */
+}
+
+.social-media ul li a {
+    text-decoration: none;
+    color: white; /* Change link color as needed */
+}
+
+.social-media ul li a:hover {
+    text-decoration: underline; /* Add an underline on hover if desired */
+}
