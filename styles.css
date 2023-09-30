@@ -1,3 +1,10 @@
+/* Style the icon */
+.nav-links img {
+    width: 24px; /* Adjust the width as needed */
+    height: 24px; /* Adjust the height as needed */
+    margin-right: 10px; /* Adjust spacing between icon and links */
+}
+
 /* Style the banner */
 .banner {
     background-color: #0078d4; /* Change to your preferred background color */
