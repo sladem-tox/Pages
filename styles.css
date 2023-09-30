@@ -1,5 +1,17 @@
 /* styles.css */
 
+/* Style the navigation links in the header */
+.banner a {
+    text-decoration: none;
+    color: white; /* Change link color as needed */
+    margin-right: 20px; /* Adjust spacing as needed */
+}
+
+.banner a:hover {
+    text-decoration: underline; /* Add an underline on hover if desired */
+}
+
+
 /* Style the banner */
 .banner {
     background-color: #0078d4; /* Change to your preferred background color */
