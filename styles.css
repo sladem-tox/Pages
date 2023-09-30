@@ -84,4 +84,6 @@ nav ul li a:hover {
 /* Add margin to the body to create space for the bottom banner */
 body {
     margin-bottom: 60px; /* Adjust the value as needed to create enough space */
+    font-family: 'Open Sans', sans-serif; /* Replace with your chosen font */
 }
+
