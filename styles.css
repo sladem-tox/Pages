@@ -108,3 +108,8 @@ body {
     margin-bottom: 60px; /* Adjust the value as needed to create enough space */
     font-family: 'Open Sans', sans-serif; /* Replace with your chosen font */
 }
+/* Add space below each section */
+section {
+    margin-bottom: 20px; /* Adjust the value as needed */
+}
+
