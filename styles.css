@@ -34,7 +34,7 @@ nav ul li a:hover {
 .bottom-banner {
     background-color: #333; /* Change to your preferred background color */
     color: white; /* Change text color as needed */
-    padding: 20px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
