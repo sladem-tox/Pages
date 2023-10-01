@@ -53,7 +53,7 @@ nav ul li a:hover {
 
 /* Style the bottom banner */
 .bottom-banner {
-    background-color: ff003f; /* Change to your preferred background color */
+    background-color: #ff003f; /* Change to your preferred background color */
     color: white; /* Change text color as needed */
     padding: 10px;
     display: flex;
